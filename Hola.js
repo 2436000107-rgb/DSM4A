@@ -20,3 +20,6 @@ function DOMRectList() {
 }
 encodeURIComponent ("Hola");
 decodeURIComponent ("Hola");
+debugger;
+escape ("Hola");
+unescape ("Hola");
