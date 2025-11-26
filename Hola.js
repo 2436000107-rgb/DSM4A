@@ -18,3 +18,5 @@ function DOMRectList() {
         this[i] = arguments[i];
     }           
 }
+encodeURIComponent ("Hola");
+decodeURIComponent ("Hola");
